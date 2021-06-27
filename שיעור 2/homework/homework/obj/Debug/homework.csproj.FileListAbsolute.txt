@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\homework\homework\bin\Debug\homework.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\homework\homework\bin\Debug\homework.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\homework\homework\bin\Debug\homework.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\homework\homework\obj\Debug\homework.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\homework\homework\obj\Debug\homework.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\homework\homework\obj\Debug\homework.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\homework\homework\obj\Debug\homework.pdb

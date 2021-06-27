@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\lesson2_targilfor\lesson2_targilfor\bin\Debug\lesson2_targilfor.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\lesson2_targilfor\lesson2_targilfor\bin\Debug\lesson2_targilfor.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\lesson2_targilfor\lesson2_targilfor\bin\Debug\lesson2_targilfor.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\lesson2_targilfor\lesson2_targilfor\obj\Debug\lesson2_targilfor.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\lesson2_targilfor\lesson2_targilfor\obj\Debug\lesson2_targilfor.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\lesson2_targilfor\lesson2_targilfor\obj\Debug\lesson2_targilfor.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 2\lesson2_targilfor\lesson2_targilfor\obj\Debug\lesson2_targilfor.pdb

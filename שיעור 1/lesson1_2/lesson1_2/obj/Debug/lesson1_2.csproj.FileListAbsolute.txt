@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1_2\lesson1_2\bin\Debug\lesson1_2.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1_2\lesson1_2\bin\Debug\lesson1_2.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1_2\lesson1_2\bin\Debug\lesson1_2.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1_2\lesson1_2\obj\Debug\lesson1_2.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1_2\lesson1_2\obj\Debug\lesson1_2.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1_2\lesson1_2\obj\Debug\lesson1_2.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1_2\lesson1_2\obj\Debug\lesson1_2.pdb

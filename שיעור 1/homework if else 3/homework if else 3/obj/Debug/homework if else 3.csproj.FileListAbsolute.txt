@@ -1,0 +1,6 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\homework if else 3\homework if else 3\bin\Debug\homework if else 3.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\homework if else 3\homework if else 3\bin\Debug\homework if else 3.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\homework if else 3\homework if else 3\bin\Debug\homework if else 3.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\homework if else 3\homework if else 3\obj\Debug\homework if else 3.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\homework if else 3\homework if else 3\obj\Debug\homework if else 3.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\homework if else 3\homework if else 3\obj\Debug\homework if else 3.pdb

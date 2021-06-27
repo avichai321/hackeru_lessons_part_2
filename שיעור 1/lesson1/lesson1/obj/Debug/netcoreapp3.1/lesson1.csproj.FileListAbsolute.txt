@@ -1,0 +1,13 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.deps.json
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.json
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.runtimeconfig.dev.json
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.dll
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\bin\Debug\netcoreapp3.1\lesson1.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfoInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.AssemblyInfo.cs
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.dll
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\שיעור 1\lesson1\lesson1\obj\Debug\netcoreapp3.1\lesson1.genruntimeconfig.cache

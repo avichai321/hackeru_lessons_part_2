@@ -1,0 +1,15 @@
+switch(day)
+            {
+                case 2:
+                case 5:
+                    Console.WriteLine("There is lesson");
+                    break;
+                case 3:
+                    Console.WriteLine("There is practice ");
+                    break;
+                case 6:
+                    Console.WriteLine("Sasageyo");
+                    break;
+                default:
+                    Console.WriteLine("There is no lesson for today");
+                    break;
