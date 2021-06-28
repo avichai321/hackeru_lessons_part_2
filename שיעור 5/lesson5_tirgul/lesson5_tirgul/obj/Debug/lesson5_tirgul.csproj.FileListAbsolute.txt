@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 5\lesson5_tirgul\lesson5_tirgul\bin\Debug\lesson5_tirgul.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 5\lesson5_tirgul\lesson5_tirgul\bin\Debug\lesson5_tirgul.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 5\lesson5_tirgul\lesson5_tirgul\bin\Debug\lesson5_tirgul.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 5\lesson5_tirgul\lesson5_tirgul\obj\Debug\lesson5_tirgul.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 5\lesson5_tirgul\lesson5_tirgul\obj\Debug\lesson5_tirgul.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 5\lesson5_tirgul\lesson5_tirgul\obj\Debug\lesson5_tirgul.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 5\lesson5_tirgul\lesson5_tirgul\obj\Debug\lesson5_tirgul.pdb
