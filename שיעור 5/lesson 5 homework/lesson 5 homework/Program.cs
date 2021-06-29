@@ -88,5 +88,28 @@ namespace lesson_5_homework
         //    }
         //}
         #endregion
+
+        #region 10
+        //static void Main(string[] args)
+        //{
+        //    Console.WriteLine("Enter number between 1-10");
+        //    int num = int.Parse(Console.ReadLine());
+        //    PrintNum(num);
+        //}
+        //public static void PrintNum (int num)
+        //{
+        //    if (num <= 10)
+        //    {
+        //        Console.WriteLine("Enter number between 1-10");
+        //        int chack = int.Parse(Console.ReadLine());
+        //        PrintNum(chack);
+        //    }
+
+        //}
+        #endregion
+
+        #region 11
+
+        #endregion
     }
 }
