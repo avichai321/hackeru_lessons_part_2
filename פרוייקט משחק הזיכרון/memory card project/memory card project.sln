@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memory card project", "memory card project\memory card project.csproj", "{F5CB070D-9B75-4A24-BF92-977B0FD23A3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CB070D-9B75-4A24-BF92-977B0FD23A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CB070D-9B75-4A24-BF92-977B0FD23A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CB070D-9B75-4A24-BF92-977B0FD23A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CB070D-9B75-4A24-BF92-977B0FD23A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4BC4D9-739C-4964-AF72-CDF40799FF52}
+	EndGlobalSection
+EndGlobal

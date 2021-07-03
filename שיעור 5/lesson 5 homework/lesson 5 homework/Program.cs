@@ -248,47 +248,47 @@ namespace lesson_5_homework
         #endregion
 
         #region 15
-        static void Main(string[] args)
-        {
-            int[] arr1 = new int[6] { 100, 5, 2, 15, 10, -5 };
-            arr1 = sortArray2(arr1);
-            PrintArray(arr1);
+        //static void Main(string[] args)
+        //{
+        //    int[] arr1 = new int[6] { 100, 5, 2, 15, 10, -5 };
+        //    arr1 = sortArray2(arr1);
+        //    PrintArray(arr1);
 
-        }
-        public static int[] sortArray(int[] arr)
-        {
-           Array.Sort(arr);
-            return arr;
-        }
-        public static int[] sortArray2(int[] arr)
-        {
-            {
-                int spot;
-                int low_value;
-                for (int i = 0; i < arr.Length - 1; i++)
-                {
-                    for (int j = i + 1; j < arr.Length; j++)
-                    {
-                        if (arr[j] < arr[i])
-                        {
-                            spot = Array.IndexOf(arr, arr[j]);
-                            low_value = arr[i];
-                            arr[i] = arr[spot];
-                            arr[spot] = low_value;
-                        }
-                    }
-                }
-            }
-            return arr;
-        }
-        public static void PrintArray(int[] arr)
-        {
-            Console.WriteLine("Array values:");
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Console.WriteLine($"{i+1} : {arr[i]}");
-            }
-        }
+        //}
+        //public static int[] sortArray(int[] arr)
+        //{
+        //   Array.Sort(arr);
+        //    return arr;
+        //}
+        //public static int[] sortArray2(int[] arr)
+        //{
+        //    {
+        //        int spot;
+        //        int low_value;
+        //        for (int i = 0; i < arr.Length - 1; i++)
+        //        {
+        //            for (int j = i + 1; j < arr.Length; j++)
+        //            {
+        //                if (arr[j] < arr[i])
+        //                {
+        //                    spot = Array.IndexOf(arr, arr[j]);
+        //                    low_value = arr[i];
+        //                    arr[i] = arr[spot];
+        //                    arr[spot] = low_value;
+        //                }
+        //            }
+        //        }
+        //    }
+        //    return arr;
+        //}
+        //public static void PrintArray(int[] arr)
+        //{
+        //    Console.WriteLine("Array values:");
+        //    for (int i = 0; i < arr.Length; i++)
+        //    {
+        //        Console.WriteLine($"{i+1} : {arr[i]}");
+        //    }
+        //}
         #endregion
     }
 }
