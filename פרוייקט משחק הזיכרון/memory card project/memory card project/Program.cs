@@ -11,7 +11,7 @@ namespace memory_card_project
         static void Main(string[] args)
         {
             int[,] game = Enter_value_to_bored(create_game_bored());
-            Print_Bored(game);
+            Game(game);
         }
 
         public static int[,] create_game_bored()
@@ -19,7 +19,7 @@ namespace memory_card_project
             Console.WriteLine("Enter the size for the bored you want to play (example: Enter 4 for 4X4 and please enter equal number ): ");
             int bored_size = int.Parse(Console.ReadLine());
 
-            return (bored_size>0 && bored_size<8 && bored_size%2==0 ? new int [bored_size,bored_size]: create_game_bored());
+            return (bored_size > 0 && bored_size < 8 && bored_size % 2 == 0 ? new int[bored_size, bored_size] : create_game_bored());
         }
 
         public static int[,] Enter_value_to_bored(int[,] m_bored)
@@ -30,13 +30,13 @@ namespace memory_card_project
             for (int i = 1; i <= pair; i++)
             {
                 int Flag = 0;
-                while (Flag!=2)
+                while (Flag != 2)
                 {
                     int row = rand.Next(0, m_bored.GetLength(0));
                     int column = rand.Next(0, m_bored.GetLength(1));
-                    if (m_bored[row , column] == 0)
+                    if (m_bored[row, column] == 0)
                     {
-                        m_bored[row,column] = i;
+                        m_bored[row, column] = i;
                         Flag++;
                     }
                 }
@@ -44,20 +44,40 @@ namespace memory_card_project
             return m_bored;
         }
 
-        public static void game(int[,] game_bored)
+        public static void Game(int[,] game_bored)
         {
             int FirstCardRow, FirstCardColumn, SecondCardRow, SecondCardColumn;
-            Console.WriteLine("choose first card row: ");
-            FirstCardRow = int.Parse(Console.ReadLine());
-            Console.WriteLine("choose first card column: ");
-            FirstCardColumn = int.Parse(Console.ReadLine());
-            Console.WriteLine("choose second card row: ");
-            SecondCardRow = int.Parse(Console.ReadLine());
-            Console.WriteLine("choose second card column: ");
-            SecondCardColumn = int.Parse(Console.ReadLine());
+            int points = 0;
+            int pairs = (game_bored.GetLength(0) * game_bored.GetLength(1)) / 2;
+            while (points != pairs)
+            {
+                Print_Bored(game_bored);
 
+                Console.WriteLine("choose first card row: ");
+                FirstCardRow = int.Parse(Console.ReadLine());
+                Console.WriteLine("choose first card column: ");
+                FirstCardColumn = int.Parse(Console.ReadLine());
+                int card1 = game_bored[FirstCardRow-1, FirstCardColumn-1];
+                Console.WriteLine(card1);
 
+                Console.WriteLine("choose second card row: ");
+                SecondCardRow = int.Parse(Console.ReadLine());
+                Console.WriteLine("choose second card column: ");
+                SecondCardColumn = int.Parse(Console.ReadLine());
+                int card2 = game_bored[SecondCardRow-1, SecondCardColumn-1];
+                Console.WriteLine(card2);
+
+                if (card1 == card2)
+                {
+                    game_bored[FirstCardRow-1, FirstCardColumn-1] = 0;
+                    game_bored[SecondCardRow-1, SecondCardColumn-1] = 0;
+                    points++;
+                }
+
+            }
+            Console.WriteLine("congrats, you finish the game");
         }
+
         public static void Print_Bored(int[,] game_bored)
         {
             for (int i = 0; i < game_bored.GetLength(0); i++)
@@ -66,17 +86,17 @@ namespace memory_card_project
                 {
                     if (game_bored[i, k] == 0)
                     {
-                        Console.Write(game_bored[i,k]+ "\t");
+                        Console.Write(game_bored[i, k] + "\t");
                     }
                     else
                     {
-                        Console.Write("*"+"\t");
+                        Console.Write("*" + "\t");
                     }
                 }
                 Console.WriteLine();
             }
         }
-   
-        
+
+
     }
 }
