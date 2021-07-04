@@ -10,55 +10,73 @@ namespace memory_card_project
     {
         static void Main(string[] args)
         {
-            int pairs= create_pairs();
-            
-
+            int[,] game = Enter_value_to_bored(create_game_bored());
+            Print_Bored(game);
         }
 
-        public static int create_pairs()
+        public static int[,] create_game_bored()
         {
             Console.WriteLine("Enter the size for the bored you want to play (example: Enter 4 for 4X4 and please enter equal number ): ");
             int bored_size = int.Parse(Console.ReadLine());
-            int cards_amount = bored_size * bored_size;
-            int pair = cards_amount / 2;
-            int[,] m_bored = new int[pair, pair];
-            int row, column;
-            Random cards = new Random();
-            for (int i = 1; i <= pair; i++)
-            {
-                row = cards.Next(0, bored_size-1);
-                column = cards.Next(0, bored_size-1);
-                while (m_bored[row,column]!=0)
-                {
-                    m_bored[row, column] = i;
-                }
-            }
-            for (int i = 1; i <= pair; i++)
-            {
-                row = cards.Next(0, bored_size - 1);
-                column = cards.Next(0, bored_size - 1);
-                while (m_bored[row, column] != 0)
-                {
-                    m_bored[row, column] = i;
-                }
-            }
 
-
-            return (bored_size % 2 == 0 && bored_size> 0 && 8 > bored_size ? cards_amount / 2 : create_pairs());
-
+            return (bored_size>0 && bored_size<8 && bored_size%2==0 ? new int [bored_size,bored_size]: create_game_bored());
         }
-        public static void create_bored(int pairs)
+
+        public static int[,] Enter_value_to_bored(int[,] m_bored)
         {
-            Random rnd = new Random();
-            for (int i = 0; i < m_bored.GetLength(0); i++)
+            Random rand = new Random();
+            int cards_amount = m_bored.GetLength(0) * m_bored.GetLength(1);
+            int pair = cards_amount / 2;
+            for (int i = 1; i <= pair; i++)
             {
-                for (int k = 0; k < m_bored.GetLength(1); k++)
+                int Flag = 0;
+                while (Flag!=2)
                 {
-                    
+                    int row = rand.Next(0, m_bored.GetLength(0));
+                    int column = rand.Next(0, m_bored.GetLength(1));
+                    if (m_bored[row , column] == 0)
+                    {
+                        m_bored[row,column] = i;
+                        Flag++;
+                    }
                 }
             }
-            
+            return m_bored;
+        }
+
+        public static void game(int[,] game_bored)
+        {
+            int FirstCardRow, FirstCardColumn, SecondCardRow, SecondCardColumn;
+            Console.WriteLine("choose first card row: ");
+            FirstCardRow = int.Parse(Console.ReadLine());
+            Console.WriteLine("choose first card column: ");
+            FirstCardColumn = int.Parse(Console.ReadLine());
+            Console.WriteLine("choose second card row: ");
+            SecondCardRow = int.Parse(Console.ReadLine());
+            Console.WriteLine("choose second card column: ");
+            SecondCardColumn = int.Parse(Console.ReadLine());
+
 
         }
+        public static void Print_Bored(int[,] game_bored)
+        {
+            for (int i = 0; i < game_bored.GetLength(0); i++)
+            {
+                for (int k = 0; k < game_bored.GetLength(1); k++)
+                {
+                    if (game_bored[i, k] == 0)
+                    {
+                        Console.Write(game_bored[i,k]+ "\t");
+                    }
+                    else
+                    {
+                        Console.Write("*"+"\t");
+                    }
+                }
+                Console.WriteLine();
+            }
+        }
+   
+        
     }
 }

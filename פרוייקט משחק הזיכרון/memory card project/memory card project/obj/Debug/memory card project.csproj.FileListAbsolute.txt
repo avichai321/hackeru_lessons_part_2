@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\פרוייקט משחק הזיכרון\memory card project\memory card project\bin\Debug\memory card project.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\פרוייקט משחק הזיכרון\memory card project\memory card project\bin\Debug\memory card project.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\פרוייקט משחק הזיכרון\memory card project\memory card project\bin\Debug\memory card project.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\פרוייקט משחק הזיכרון\memory card project\memory card project\obj\Debug\memory card project.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\פרוייקט משחק הזיכרון\memory card project\memory card project\obj\Debug\memory card project.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\פרוייקט משחק הזיכרון\memory card project\memory card project\obj\Debug\memory card project.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\פרוייקט משחק הזיכרון\memory card project\memory card project\obj\Debug\memory card project.pdb
