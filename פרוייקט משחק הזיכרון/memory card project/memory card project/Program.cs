@@ -115,7 +115,7 @@ namespace memory_card_project
                     SecondCardColumn = int.Parse(Console.ReadLine());
 
                 }
-                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)|| game_bored[SecondCardRow - 1, SecondCardColumn - 1] == (char)48);
+                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)|| game_bored[SecondCardRow - 1, SecondCardColumn - 1] == (char)48|| SecondCardRow == FirstCardRow && SecondCardColumn == FirstCardColumn);
                 Print_Bored_Last_Char(game_bored, FirstCardRow-1, FirstCardColumn-1, SecondCardRow-1, SecondCardColumn-1);
                 char card1 = game_bored[FirstCardRow - 1, FirstCardColumn - 1];
                 Console.WriteLine($"card1: {card1}");
@@ -158,7 +158,7 @@ namespace memory_card_project
                     SecondCardColumn = int.Parse(Console.ReadLine());
 
                 }
-                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)||game_bored[SecondCardRow - 1, SecondCardColumn - 1] == 0);
+                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)||game_bored[SecondCardRow - 1, SecondCardColumn - 1] == 0||SecondCardRow==FirstCardRow&&SecondCardColumn==FirstCardColumn);
                 Print_Bored_Last_Number(game_bored,FirstCardRow-1, FirstCardColumn-1 , SecondCardRow - 1, SecondCardColumn - 1);
                 int card1 = game_bored[FirstCardRow - 1, FirstCardColumn - 1];
                 Console.WriteLine($"card1: {card1}");
@@ -203,7 +203,7 @@ namespace memory_card_project
                     SecondCardColumn = int.Parse(Console.ReadLine());
 
                 }
-                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)|| game_bored[SecondCardRow - 1, SecondCardColumn - 1] == 0);
+                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)|| game_bored[SecondCardRow - 1, SecondCardColumn - 1] == 0||SecondCardRow == FirstCardRow && SecondCardColumn == FirstCardColumn);
                 Print_Bored_Last_Number(game_bored, FirstCardRow - 1, FirstCardColumn - 1, SecondCardRow - 1, SecondCardColumn - 1);
                 int card1 = game_bored[FirstCardRow - 1, FirstCardColumn - 1];
                 Console.WriteLine($"card1: {card1}");
@@ -266,7 +266,7 @@ namespace memory_card_project
                     SecondCardColumn = int.Parse(Console.ReadLine());
 
                 }
-                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)||game_bored[SecondCardRow - 1, SecondCardColumn - 1] == (char)48);
+                while (0 >= SecondCardColumn || SecondCardColumn > game_bored.GetLength(1) || 0 >= SecondCardRow || SecondCardRow > game_bored.GetLength(1)||game_bored[SecondCardRow - 1, SecondCardColumn - 1] == (char)48|| SecondCardRow == FirstCardRow && SecondCardColumn == FirstCardColumn);
                 Print_Bored_Last_Char(game_bored, FirstCardRow - 1, FirstCardColumn - 1, SecondCardRow - 1, SecondCardColumn - 1);
                 char card1 = game_bored[FirstCardRow - 1, FirstCardColumn - 1];
                 Console.WriteLine($"card1: {card1}");
