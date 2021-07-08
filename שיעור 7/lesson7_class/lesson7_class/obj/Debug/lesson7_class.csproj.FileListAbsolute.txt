@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\lesson7_class\lesson7_class\bin\Debug\lesson7_class.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\lesson7_class\lesson7_class\bin\Debug\lesson7_class.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\lesson7_class\lesson7_class\bin\Debug\lesson7_class.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\lesson7_class\lesson7_class\obj\Debug\lesson7_class.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\lesson7_class\lesson7_class\obj\Debug\lesson7_class.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\lesson7_class\lesson7_class\obj\Debug\lesson7_class.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\lesson7_class\lesson7_class\obj\Debug\lesson7_class.pdb
