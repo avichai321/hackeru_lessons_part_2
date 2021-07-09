@@ -164,14 +164,13 @@ namespace memory_card_project
                         {
                             player2_points++;
                         }
-                        sum_points++;
                         Console.WriteLine($"The result of the game this far:\n{player_1} : {player1_points}\n{player_2} : {player2_points}\n");
                     }
                     else
                     {
                         Console.WriteLine($"your points : {sum_points}");
-                    sum_points++;
                     }
+                    sum_points++;
                     continue;
                 }
                 else
@@ -195,7 +194,7 @@ namespace memory_card_project
             }
             if (choise == 1)
             {
-                Console.WriteLine($"The result of the game is:\n{player_1} : {player1_points}\n{player_2} : {player2_points}");
+                Console.WriteLine($"This is the end of game the winner is: {turn}");
             }
             else
             {
@@ -294,14 +293,13 @@ namespace memory_card_project
                         {
                             player2_points++;
                         }
-                    sum_points++;
                         Console.WriteLine($"The result of the game this far:\n{player_1} : {player1_points}\n{player_2} : {player2_points}\n");
                     }
                     else
                     {
-                        sum_points++;
                         Console.WriteLine($"your points : {sum_points}");
                     }
+                        sum_points++;
                     continue;
                 }
                 else
@@ -324,7 +322,7 @@ namespace memory_card_project
             }
             if (choise == 1)
             {
-                Console.WriteLine($"The result of the game is:\n{player_1} : {player1_points}\n{player_2} : {player2_points}");
+                Console.WriteLine($"This is the end of game the winner is: {turn}");
             }
             else
             {
