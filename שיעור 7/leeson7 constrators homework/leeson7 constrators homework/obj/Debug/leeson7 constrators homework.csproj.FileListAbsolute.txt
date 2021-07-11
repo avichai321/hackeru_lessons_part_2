@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\leeson7 constrators homework\leeson7 constrators homework\bin\Debug\leeson7 constrators homework.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\leeson7 constrators homework\leeson7 constrators homework\bin\Debug\leeson7 constrators homework.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\leeson7 constrators homework\leeson7 constrators homework\bin\Debug\leeson7 constrators homework.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\leeson7 constrators homework\leeson7 constrators homework\obj\Debug\leeson7 constrators homework.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\leeson7 constrators homework\leeson7 constrators homework\obj\Debug\leeson7 constrators homework.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\leeson7 constrators homework\leeson7 constrators homework\obj\Debug\leeson7 constrators homework.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 7\leeson7 constrators homework\leeson7 constrators homework\obj\Debug\leeson7 constrators homework.pdb
