@@ -147,7 +147,7 @@ namespace lesson7_classes_homework
 
             double GetScope(int length, int width)
             {
-                return (length * 2) + width * 2;
+                return (length * 2) + (width * 2);
             }
     }
 }
