@@ -1,0 +1,7 @@
+C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\bin\Debug\lesson8-class.exe.config
+C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\bin\Debug\lesson8-class.exe
+C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\bin\Debug\lesson8-class.pdb
+C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.csprojAssemblyReference.cache
+C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.csproj.CoreCompileInputs.cache
+C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.exe
+C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.pdb
