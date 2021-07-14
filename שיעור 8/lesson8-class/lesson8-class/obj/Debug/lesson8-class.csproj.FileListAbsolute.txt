@@ -5,3 +5,10 @@ C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.
 C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.csproj.CoreCompileInputs.cache
 C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.exe
 C:\Users\DAHAN\source\repos\lesson8-class\lesson8-class\obj\Debug\lesson8-class.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 8\lesson8-class\lesson8-class\bin\Debug\lesson8-class.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 8\lesson8-class\lesson8-class\bin\Debug\lesson8-class.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 8\lesson8-class\lesson8-class\bin\Debug\lesson8-class.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 8\lesson8-class\lesson8-class\obj\Debug\lesson8-class.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 8\lesson8-class\lesson8-class\obj\Debug\lesson8-class.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 8\lesson8-class\lesson8-class\obj\Debug\lesson8-class.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 8\lesson8-class\lesson8-class\obj\Debug\lesson8-class.pdb

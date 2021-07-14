@@ -11,9 +11,9 @@ namespace lesson8_class
         static void Main(string[] args)
         {
         #region 1
-            //PrintInTwoRows("one", "piece");
-            //PrintInTwoRows(1, 980);
-            //PrintInTwoRows(true, false);
+           
+            PrintInTwoRows(true, false);
+            
             #endregion
 
             #region 2
