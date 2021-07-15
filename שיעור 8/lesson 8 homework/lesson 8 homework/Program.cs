@@ -72,19 +72,19 @@ namespace lesson_8_homework
             //onlyBase.AddWheel();
             //onlyBase.OpenOrCloseRoof();
             //Console.WriteLine();
-            
+
             //baseWithCar.AddWheel();
             //baseWithCar.OpenOrCloseRoof();
             //Console.WriteLine();
-            
+
             //baseWithMotor.AddWheel();
             //baseWithMotor.OpenOrCloseRoof();
             //Console.WriteLine();
-            
+
             //onlyCar.AddWheel();
             //onlyCar.OpenOrCloseRoof();
             //Console.WriteLine();
-            
+
             //onlyMotor.AddWheel();
             //onlyMotor.OpenOrCloseRoof();
 
@@ -166,8 +166,8 @@ namespace lesson_8_homework
 
         public Computer(string[] allopenFiles)
         {
-            isTurnOn = true;
             this.allOpenFiles = allopenFiles;
+            this.isTurnOn = false;
         }
 
 
@@ -181,15 +181,18 @@ namespace lesson_8_homework
 
             //return (isturnon == true || isturnon == false && allOpenFiles == null ? this.isTurnOn = false : this.isTurnOn=true);
 
-            if (isturnon == true || isturnon == false && allOpenFiles == null)
+            if (allOpenFiles == null)
             {
-                Console.WriteLine("the computer is off");
-                this.isTurnOn = false;
+                TurnOff();
             }
             else
             {
-                Console.WriteLine("the computer is on");
-                this.isTurnOn = true;
+                Console.WriteLine("are you sure?");
+                string answer = Console.ReadLine();
+                if (answer.ToLower() == "y")
+                {
+                    TurnOff();
+                }
             }
         }
 
@@ -198,7 +201,7 @@ namespace lesson_8_homework
     class SmartComp : Computer
     {
 
-        string[] filesInCache;
+        public string[] filesInCache;
 
 
         public SmartComp()
@@ -208,18 +211,34 @@ namespace lesson_8_homework
 
         public void TurnOff(bool isturnon, bool save)
         {
-            if (isturnon == true && save == true)
+            if (isturnon)
             {
-                if (base.allOpenFiles != null)
+                if (save)
                 {
-                    filesInCache = base.allOpenFiles;
+                    if (allOpenFiles != null)
 
+                    {
+                        filesInCache = allOpenFiles;
+                        TurnOff();
+
+
+                    }
+                    else
+                    {
+                        TurnOff();
+                    }
+                }
+            }
+            else
+            {
+                if (allOpenFiles != null)
+
+                {
+                    filesInCache = allOpenFiles;
+                    TurnOff();
 
                 }
             }
-            base.allOpenFiles = null;
-            base.isTurnOn = false;
-
         }
     }
 
