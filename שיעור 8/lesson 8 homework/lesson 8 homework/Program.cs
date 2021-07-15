@@ -53,11 +53,11 @@ namespace lesson_8_homework
 
             #region 8
 
-            //string[] arr = new string[2] { "avicii", "avichai" };
-            //Computer c1 = new Computer(arr);
-            //c1.TurnOff();
-            //SmartComp c2 = new SmartComp();
-            //c2.TurnOff();
+            string[] arr = new string[2] { "avicii", "avichai" };
+            Computer c1 = new Computer(arr);
+            c1.TurnOff();
+            SmartComp c2 = new SmartComp(arr);
+            c2.TurnOff();
             #endregion
 
             #endregion
@@ -159,14 +159,10 @@ namespace lesson_8_homework
 
         public string[] allOpenFiles;
         public bool isTurnOn;
-        public Computer()
-        {
 
-        }
-
-        public Computer(string[] allopenFiles)
+        public Computer(string[] allOpenFiles)
         {
-            this.allOpenFiles = allopenFiles;
+            this.allOpenFiles = allOpenFiles;
             this.isTurnOn = false;
         }
 
@@ -204,9 +200,9 @@ namespace lesson_8_homework
         public string[] filesInCache;
 
 
-        public SmartComp()
+        public SmartComp(string[] allOpenFiles) : base(allOpenFiles)
         {
-            filesInCache = base.allOpenFiles;
+            filesInCache = allOpenFiles;
         }
 
         public void TurnOff(bool isturnon, bool save)
