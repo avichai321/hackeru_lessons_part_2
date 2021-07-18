@@ -8,18 +8,27 @@ namespace lesson9_class
 {
     class Bottle
     {
-        public bool plastic;
-        public bool glass;
+        public string matirial;
         public bool ifRecycle;
 
-        public Bottle(bool plastic, bool glass)
+        public Bottle(string matirial)
         {
-            this.plastic = plastic;
-            this.glass = glass;
-            ifRecycle = true;
+            this.matirial = matirial;
 
         }
-
-
+        public void recycle(ref int howManyRecycled, int maxRecycle)
+        {
+            if(this.matirial == "plastic" || this.matirial == "glass" )
+            {
+                if (howManyRecycled< maxRecycle)
+                {
+                    howManyRecycled++;
+                    if (howManyRecycled== maxRecycle)
+                    {
+                        ifRecycle = true;
+                    }
+                }
+            }
+        }
     }
 }
