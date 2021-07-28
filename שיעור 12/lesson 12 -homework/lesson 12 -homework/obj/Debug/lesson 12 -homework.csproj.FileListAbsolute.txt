@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 12\lesson 12 -homework\lesson 12 -homework\bin\Debug\lesson 12 -homework.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 12\lesson 12 -homework\lesson 12 -homework\bin\Debug\lesson 12 -homework.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 12\lesson 12 -homework\lesson 12 -homework\bin\Debug\lesson 12 -homework.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 12\lesson 12 -homework\lesson 12 -homework\obj\Debug\lesson 12 -homework.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 12\lesson 12 -homework\lesson 12 -homework\obj\Debug\lesson 12 -homework.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 12\lesson 12 -homework\lesson 12 -homework\obj\Debug\lesson 12 -homework.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 12\lesson 12 -homework\lesson 12 -homework\obj\Debug\lesson 12 -homework.pdb

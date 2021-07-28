@@ -11,7 +11,7 @@ namespace lesson_11__homework
         readonly int iD;
         private string name;
         private double phone;
-        private static int numberOfPersons = 0;
+        private  int numberOfPersons = 0;
 
         public Person(string name, double phone)
         {

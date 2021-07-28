@@ -30,16 +30,16 @@ namespace lesson_11__homework
             #region static
 
             #region 4
-            //Person p1 = new Person("avicii", 1534648);
-            //Person p2 = new Person("Naruto", 1534648);
-            //Person p3 = new Person("luffy", 1534648);
-            //Person p4 = new Person("Tahel", 1534648);
-            //Person p5 = new Person("Goku", 1534648);
-            //Person p6 = new Person("Ichigo", 1534648);
-            //Person p7 = new Person("Avichai", 1534648);
-            //Person p8 = new Person("Bamaba", 1534648);
-            //Person p9 = new Person("Kirito", 1534648);
-            //Person p10 = new Person("maiki", 1534648);
+            Person p1 = new Person("avicii", 1534648);
+            Person p2 = new Person("Naruto", 1534648);
+            Person p3 = new Person("luffy", 1534648);
+            Person p4 = new Person("Tahel", 1534648);
+            Person p5 = new Person("Goku", 1534648);
+            Person p6 = new Person("Ichigo", 1534648);
+            Person p7 = new Person("Avichai", 1534648);
+            Person p8 = new Person("Bamaba", 1534648);
+            Person p9 = new Person("Kirito", 1534648);
+            Person p10 = new Person("maiki", 1534648);
             #endregion
 
             #region 5
