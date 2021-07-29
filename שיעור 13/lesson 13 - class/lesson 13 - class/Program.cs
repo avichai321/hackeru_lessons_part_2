@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lesson_12__homework
+namespace lesson_13___class
 {
-    interface IMakeSoundable: lAnimal
+    class Program
     {
-        void MakeSoundBeforeEating();
+        static void Main(string[] args)
+        {
+        }
     }
 }

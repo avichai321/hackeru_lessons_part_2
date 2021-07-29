@@ -20,17 +20,21 @@ namespace lesson_12__homework
             #endregion
 
             #region interfaces
-
+            seaking a1 = new seaking();
+            AnimalIsHungry(a1);
             #endregion
         }
 
-        public static void AnimalIsHungry(lAnimal a, IMakeSoundable b)
+        public static void AnimalIsHungry(lAnimal a)
         {
             if (a is IMakeSoundable)
             {
-                  
+                (a as IMakeSoundable).MakeSoundBeforeEating();
             }
+            else
+            {
             a.Eat();
+            }
         }
 
         public static void AnimalIsTiredy(lAnimal a)
