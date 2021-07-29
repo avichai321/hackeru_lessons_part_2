@@ -10,7 +10,7 @@ namespace lesson_12__homework
     {
         public void Eat()
         {
-            Console.WriteLine("im hangry");
+            Console.WriteLine("im hungry");
         }
         public void Sleep()
         {

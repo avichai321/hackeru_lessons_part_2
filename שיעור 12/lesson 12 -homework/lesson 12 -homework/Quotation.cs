@@ -8,7 +8,6 @@ namespace lesson_12__homework
 {
     class Quotation
     {
-        private int numOfLines;
 
         public string CustomerName { get; private set; }
         public double[] SumLines { get; set; }
@@ -36,7 +35,6 @@ namespace lesson_12__homework
         public Quotation(int numOfLines, string customerName, DateTime validUntil)
         {
             CustomerName = customerName;
-            this.numOfLines = numOfLines;
             SumLines = new double[numOfLines];
             ValidUntil = validUntil;
         }
