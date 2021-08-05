@@ -1,0 +1,7 @@
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 15\lesson 15 - class\lesson 15 - class\bin\Debug\lesson 15 - class.exe.config
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 15\lesson 15 - class\lesson 15 - class\bin\Debug\lesson 15 - class.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 15\lesson 15 - class\lesson 15 - class\bin\Debug\lesson 15 - class.pdb
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 15\lesson 15 - class\lesson 15 - class\obj\Debug\lesson 15 - class.csprojAssemblyReference.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 15\lesson 15 - class\lesson 15 - class\obj\Debug\lesson 15 - class.csproj.CoreCompileInputs.cache
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 15\lesson 15 - class\lesson 15 - class\obj\Debug\lesson 15 - class.exe
+D:\לימודים דוטנט האקריו\Object Oriented Programming- C# Net Framework\avichai321\hackeru_lessons_part_2\שיעור 15\lesson 15 - class\lesson 15 - class\obj\Debug\lesson 15 - class.pdb
