@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice interface and propties", "practice\practice interface and propties.csproj", "{1EC8CF77-0346-459D-8EFA-3B62B7C80C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice exception", "practice exception\practice exception.csproj", "{21C353DB-ED13-4BD6-8706-66622D56758A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC8CF77-0346-459D-8EFA-3B62B7C80C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC8CF77-0346-459D-8EFA-3B62B7C80C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC8CF77-0346-459D-8EFA-3B62B7C80C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC8CF77-0346-459D-8EFA-3B62B7C80C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C353DB-ED13-4BD6-8706-66622D56758A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C353DB-ED13-4BD6-8706-66622D56758A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C353DB-ED13-4BD6-8706-66622D56758A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C353DB-ED13-4BD6-8706-66622D56758A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0DCA6DC-EDF3-4730-80A0-8B65157D813A}
+	EndGlobalSection
+EndGlobal

@@ -10,6 +10,9 @@ namespace lesson14_homework
     {
         static void Main(string[] args)
         {
+            Garage gar = new Garage(new string[] { "den den moshi", "sunny", "merry" },3);
+
+            gar.AddCar(new Car("sunny",false,true));
         }
     }
 }
